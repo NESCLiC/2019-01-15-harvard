@@ -469,9 +469,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       </p>
       <p>
         Others editors that you can use are
-        [Atom](https://atom.io/),
-        [Notepad++](https://notepad-plus-plus.org/), or
-        [Sublime Text](https://www.sublimetext.com/).
+        <a href="https://atom.io/">Atom</a>,
+        <a href="https://notepad-plus-plus.org/">Notepad++</a>, or
+        <a href="https://www.sublimetext.com/">Sublime Text</a>.
         <strong>Be aware that you must
           add its installation directory to your system path.</strong>
         Please ask your instructor to help you do this.
@@ -487,7 +487,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       </p>
       <p>
         Others editors that you can use are
-        [Atom](https://atom.io/),
+        <a href="https://atom.io/">Atom</a>,
         <a href="https://www.barebones.com/products/bbedit/">BBEdit</a>, or
         <a href="https://www.sublimetext.com/">Sublime Text</a>.
       </p>
@@ -500,7 +500,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       </p>
       <p>
         Others editors that you can use are
-        [Atom](https://atom.io/),
+        <a href="https://atom.io/">Atom</a>,
         <a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a>,
         <a href="https://kate-editor.org/">Kate</a>, or
         <a href="https://www.sublimetext.com/">Sublime Text</a>.
